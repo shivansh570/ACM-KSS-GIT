@@ -1,4 +1,4 @@
-# Hey, I'm Shivansh 👋
+# Hey, I'm Yuvraj 👋
 
 ### B.Sc. (Hons.) Computer Science @ SSCBS
 
@@ -17,7 +17,7 @@ Currently focused on **Python, SQL, and building strong programming fundamentals
 - 🗄️ Working with **SQL**
 - 🌐 Currently learning **HTML, CSS & JavaScript**
 - 🚀 Planning to learn **C++** next
-- 🧠 Interested in **AI/ML, Data Science, Backend Development & DSA**
+- 🧠 Interested in **AI/ML, Robotics, Backend Development & DSA**
 - 🔨 Currently focused on building skills before diving deeper into projects
 
 
@@ -93,7 +93,7 @@ Still exploring what I want to specialize in.
 
 When I'm not coding:
 
-🎵 Music  
+🍿  Watching Web series 
 🎮 Games  
 📖 Manga  
 💻 Probably still doing something related to tech
@@ -103,10 +103,10 @@ When I'm not coding:
 ## 📫 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/shivansh-singla-develop">
+  <a href=https://www.linkedin.com/in/yuvraj-singh-03105a307?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:shivanshsingla12345@gmail.com">
+  <a href="mailto:yuvrajsinghtejas416@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
